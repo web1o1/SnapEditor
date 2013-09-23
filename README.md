@@ -94,7 +94,7 @@ A rake task has been provided to generate `spec/acceptance/assets/javascripts/sn
 
     rake prepare:test
 
-## Writing Tests (OLD)
+## Writing Tests
 
 ### Asynchronous it()
 
